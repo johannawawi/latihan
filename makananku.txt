@@ -1,2 +1,5 @@
+<<<<<< HEAD
 Makananku:
-1. Kepiting
+2. Bandeng presto
+3. Ayam malaysia
+>>>>>>> makanan
