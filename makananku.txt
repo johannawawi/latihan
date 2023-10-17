@@ -1,5 +1,6 @@
 <<<<<< HEAD
 Makananku:
+1. Ayam kuning
 2. Bandeng presto
 3. Ayam malaysia
 >>>>>>> makanan
